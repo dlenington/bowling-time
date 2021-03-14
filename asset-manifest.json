@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bowling-time/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/bowling-time/static/js/main.5c0f076a.chunk.js",
+    "main.js.map": "/bowling-time/static/js/main.5c0f076a.chunk.js.map",
+    "runtime-main.js": "/bowling-time/static/js/runtime-main.647609a0.js",
+    "runtime-main.js.map": "/bowling-time/static/js/runtime-main.647609a0.js.map",
+    "static/js/2.15ef202c.chunk.js": "/bowling-time/static/js/2.15ef202c.chunk.js",
+    "static/js/2.15ef202c.chunk.js.map": "/bowling-time/static/js/2.15ef202c.chunk.js.map",
+    "static/js/3.241e66ce.chunk.js": "/bowling-time/static/js/3.241e66ce.chunk.js",
+    "static/js/3.241e66ce.chunk.js.map": "/bowling-time/static/js/3.241e66ce.chunk.js.map",
+    "index.html": "/bowling-time/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/bowling-time/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.15ef202c.chunk.js.LICENSE.txt": "/bowling-time/static/js/2.15ef202c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647609a0.js",
+    "static/js/2.15ef202c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5c0f076a.chunk.js"
+  ]
+}
